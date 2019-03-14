@@ -1,10 +1,10 @@
 
 export default {
-  path: '/TableList',
+  path: '/tableList',
   name: 'tableList',
   hidden: true,
   meta: {
-    name: 'TableList',
+    name: 'tableList',
     icon: 'dashboard'
   },
   component: () => import('./index')
